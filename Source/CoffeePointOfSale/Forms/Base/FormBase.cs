@@ -28,17 +28,20 @@ public class FormBase : Form
 
     private void InitializeComponent()
     {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormBase));
             this.SuspendLayout();
             // 
             // FormBase
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1348, 721);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
+            this.ClientSize = new System.Drawing.Size(1332, 682);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormBase";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FormBase";
-            this.Load += new System.EventHandler(this.OnLoadFormBase);
+            this.Text = "Espresso Delivery";
+            this.Load += new System.EventHandler(this.FormBase_Load);
             this.ResumeLayout(false);
 
     }
@@ -58,5 +61,10 @@ public class FormBase : Form
     {
         ConfigureWindow(); //sets window to proper size and position - all forms should all this at start of OnLoad
         SetTitle();
+    }
+
+    private void FormBase_Load(object sender, EventArgs e)
+    {
+
     }
 }

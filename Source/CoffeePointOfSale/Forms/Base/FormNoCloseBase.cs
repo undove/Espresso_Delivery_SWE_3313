@@ -1,4 +1,5 @@
 using CoffeePointOfSale.Configuration;
+using System.Resources;
 
 namespace CoffeePointOfSale.Forms.Base;
 
@@ -47,8 +48,13 @@ public class FormNoCloseBase : FormBase
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormNoCloseBase";
-            this.Text = "App AnonymousCustomerId Not Set";
+            this.Load += new System.EventHandler(this.FormNoCloseBase_Load);
             this.ResumeLayout(false);
+
+    }
+
+    private void FormNoCloseBase_Load(object sender, EventArgs e)
+    {
 
     }
 }
