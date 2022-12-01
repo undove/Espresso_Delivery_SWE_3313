@@ -1,0 +1,557 @@
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkCustomization.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnon.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayReceipt.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+C:\Users\itsdo\OneDrive\Documents\ksu\YEAR 3\FALL\SWE\doves-stuff\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Downloads\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+D:\Downloads\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+C:\Users\adele\Downloads\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+C:\Users\Lord Dijon\Desktop\Source (6)\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+D:\Users\dgree176\Downloads\Update\Update\Source (4)\Source\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+C:\Users\adele\Downloads\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+D:\Downloads\Update (3)\Update (1)(1)\Update\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\Customers.json
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\DrinkMenu.json
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.exe
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\appsettings.json
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\JsonStorage\readme.txt
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.deps.json
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.runtimeconfig.json
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\CoffeePointOfSale.pdb
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\CsvHelper.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.AssemblyReference.cache
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormBase.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.Base.FormNoCloseBase.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerAdd.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormCustomerList.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormDrinkOrder.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormMain.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormManagement.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayAnonymous.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormPayCustomer.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptAnonymous.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerCard.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Forms.FormReceiptCustomerPoints.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.Properties.Resources.resources
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.GenerateResource.cache
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfoInputs.cache
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.AssemblyInfo.cs
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CoreCompileInputs.cache
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.csproj.CopyComplete
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\refint\CoffeePointOfSale.dll
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.pdb
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\CoffeePointOfSale.genruntimeconfig.cache
+A:\!_____compile\with fixed customer points\CoffeePointOfSale\obj\Debug\net6.0-windows\ref\CoffeePointOfSale.dll
