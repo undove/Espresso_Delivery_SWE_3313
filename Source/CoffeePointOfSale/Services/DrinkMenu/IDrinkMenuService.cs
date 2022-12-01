@@ -1,3 +1,8 @@
-﻿namespace CoffeePointOfSale.Services.DrinkMenu;
+﻿using CoffeePointOfSale.Services.Customer;
 
-public interface IDrinkMenuService { }
+namespace CoffeePointOfSale.Services.DrinkMenu;
+
+public interface IDrinkMenuService 
+{
+    public IReadOnlyList<Drink> DrinkMenu { get; init; }
+}

@@ -1,7 +1,5 @@
 ﻿using CoffeePointOfSale.Services.Storage;
-
 namespace CoffeePointOfSale.Services.Customer;
-
 
 /// <summary>
 /// Service to load the customer database from JSON and to write changes to the customer database.
