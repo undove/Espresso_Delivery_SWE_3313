@@ -1,0 +1,166 @@
+{
+  "Customers": {
+    "anonymous": {
+      "FirstName": "Anonymous",
+      "LastName": "Anonymous",
+      "Phone": "Anonymous",
+      "RewardPoints": 0
+    },
+    "404-444-5555": {
+      "FirstName": "Charles",
+      "LastName": "Winter",
+      "Phone": "678-884-4302",
+      "RewardPointsBalance": 0,
+      "Orders": [ {} ]
+    },
+    "770-893-5004": {
+      "FirstName": "Jack",
+      "LastName": "Stevenson",
+      "Phone": "770-893-5004",
+      "RewardPointsBalance": 1008,
+      "Orders": [
+        {
+          "DateTime": "2022-10-22 15:33:27",
+          "Subtotal": 10.25,
+          "Tax": 0.62,
+          "Total": 10.87,
+          "PointsEarned": 108,
+          "PaymentMethod": "Card",
+          "PaymentDetails": "9384",
+          "Drinks": [
+            {
+              "Name": "Latte",
+              "BasePrice": 4.00,
+              "TotalPrice": 6.75,
+              "Customizations": [
+                {
+                  "Name": "Oat Milk",
+                  "Price": 1.50
+                },
+                {
+                  "Name": "1 Extra Shot",
+                  "Price": 1.25
+                }
+              ]
+            },
+            {
+              "Name": "Coffee",
+              "BasePrice": 2.50,
+              "TotalPrice": 3.50,
+              "Customizations": [
+                {
+                  "Name": "Large",
+                  "Price": 1.50
+                },
+                {
+                  "Name": "Whole Milk",
+                  "Price": 0.00
+                },
+                {
+                  "Name": "1 Sugar",
+                  "Price": 0.00
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "678-891-7784": {
+      "FirstName": "Hannah",
+      "LastName": "Copeland",
+      "Phone": "678-891-7784",
+      "RewardPointsBalance": 2,
+      "Orders": [
+        {
+          "DateTime": "2022-10-30 11:27:53",
+          "Subtotal": 6.75,
+          "Tax": 0.41,
+          "Total": 7.16,
+          "PaymentMethod": "Card",
+          "PaymentDetails": "8679",
+          "PointsEarned": 71,
+          "Drinks": [
+            {
+              "Name": "Latte",
+              "BasePrice": 4.00,
+              "TotalPrice": 3.00,
+              "Customizations": [
+                {
+                  "Name": "Small",
+                  "Price": -1.00
+                },
+                {
+                  "Name": "Non-Fat Milk",
+                  "Price": 0.00
+                },
+                {
+                  "Name": "Very Hot",
+                  "Price": 0.00
+                }
+              ]
+            },
+            {
+              "Name": "Espresso",
+              "BasePrice": 2.50,
+              "TotalPrice": 3.00,
+              "Customizations": [
+                {
+                  "Name": "1 Extra Shot",
+                  "Price": 1.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DateTime": "2022-11-01 10:52:06",
+          "Subtotal": 6.50,
+          "Tax": 0.39,
+          "Total": 6.89,
+          "PaymentMethod": "Rewards Points",
+          "PaymentDetails": "Redeemed 69 points.",
+          "PointsEarned": 0,
+          "Drinks": [
+            {
+              "Name": "Iced Matcha Green Tea Latte",
+              "BasePrice": 4.00,
+              "TotalPrice": 5.00,
+              "Customizations": [
+                {
+                  "Name": "Large",
+                  "Price": 1.00
+                },
+                {
+                  "Name": "Whole Milk",
+                  "Price": 0.00
+                }
+              ]
+            },
+            {
+              "Name": "Coffee",
+              "BasePrice": 2.50,
+              "TotalPrice": 2.00,
+              "Customizations": [
+                {
+                  "Name": "Small",
+                  "Price": -0.50
+                },
+                {
+                  "Name": "Room for Cream",
+                  "Price": 0.00
+                }
+              ]
+            },
+            {
+              "Name": "Iced Water",
+              "BasePrice": 0,
+              "TotalPrice": 0,
+              "Customizations": [ {} ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
